@@ -14,3 +14,5 @@
     e. Combine str methods with NumPy to clean columns<br />
 
 4. Implement K-means clustering using MapReduce.
+
+5. Give a MapReduce Program to calculate the frequency of a given word in a given file.
