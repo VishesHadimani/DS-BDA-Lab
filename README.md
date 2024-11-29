@@ -7,12 +7,14 @@
 2. For the given dataset 'mtcars.csv' plot a histogram to check the frequency distribution of the variable 'mpg'.
 
 3. Consider the books dataset BL-Flickr-Images-Book.csv from Kaggle which contains information about books. Write a program to demonstrate the following: <br />
-    a. Importing the data into a DataFrame<br />
-    b. Find and drop the columns which are irrelevant for the book information<br />
-    c. Change the index of the DataFrame<br />
-    d. Tidy up the fields in the daya such as date of publication with the help of simple regular experession<br />
+    a. Importing the data into a DataFrame. <br />
+    b. Find and drop the columns which are irrelevant for the book information. <br />
+    c. Change the index of the DataFrame. <br />
+    d. Tidy up the fields in the data such as date of publication, with the help of simple regular experience. <br />
     e. Combine str methods with NumPy to clean columns<br />
 
 4. Implement K-means clustering using MapReduce.
 
-5. Give a MapReduce Program to calculate the frequency of a given word in a given file.
+5. Give a MapReduce program to calculate the frequency of a given word in a given file.
+
+6. Develop a Map Reduce program to calculate the maximum, minimum, and mean values of sepal length, sepal width, petal length, and petal width from the iris flower dataset. VIsualize the relationship between sepal length and sepal width and also between petal length and petal width.
