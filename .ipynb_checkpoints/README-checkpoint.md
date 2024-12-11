@@ -18,3 +18,5 @@
 5. Give a MapReduce program to calculate the frequency of a given word in a given file.
 
 6. Develop a Map Reduce program to calculate the maximum, minimum, and mean values of sepal length, sepal width, petal length, and petal width from the iris flower dataset. VIsualize the relationship between sepal length and sepal width and also between petal length and petal width.
+
+7. Implement K-Means and Hierarchial Clustering technique using Spark.
